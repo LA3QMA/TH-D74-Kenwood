@@ -1,15 +1,30 @@
-__Dual Band Mode/Single Band Mode__
+__Set/Read mode__
 
-Set dual band:
+Set the mode:
 
-	DL 0
+	MD p1,p2
 
-Set single band:
+Get the mode:
 
-	DL 1
+	MD
+
+Returns: p1,p2
 	
-Read:
+|p1|band
+|---|---|
+|0|Band A
+|1|Band B
 
-	DL
-	
-Returns: 0: dual band, 1: single band
+|p2|mode
+|---|---|
+|0|FM
+|1|DV
+|2|AM
+|3|LSB
+|4|USB
+|5|CW
+|6|NFM
+|7|DR
+|8|WFM
+|9|R-CW
+
