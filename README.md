@@ -1,4 +1,4 @@
-# TH-D74-Kenwood
+# TH-D74-Kenwood - PC RIG control commands
 
 Reverse engineered commands bases on my first discovery for the TM-D710.
 
