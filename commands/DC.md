@@ -10,7 +10,7 @@ Get D-Star callsign slot:
 
 Returns: slot, callsign, message
 	
-|p1|
+|p1|slot
 |---|---|
 |1|D-Star callsign slot 1
 |2|D-Star callsign slot 2
