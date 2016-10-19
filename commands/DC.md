@@ -8,7 +8,7 @@ Get D-Star callsign slot:
 
 	CS
 
-Returns: slot, callsign, message
+Returns: p1, p2, p3
 	
 |p1|slot
 |---|---|
