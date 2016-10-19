@@ -1,4 +1,4 @@
-Dual Band Mode/Single Band Mode
+*Dual Band Mode/Single Band Mode*
 
 Set dual band:
 
