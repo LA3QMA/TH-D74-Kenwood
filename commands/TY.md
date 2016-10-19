@@ -4,4 +4,4 @@ Get radio firmware:
 
 	TY
 
-Returns: radio tyoe
+Returns: radio type
