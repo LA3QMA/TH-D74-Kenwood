@@ -6,7 +6,6 @@ Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH
 
 Available Control commands:
 
-- DL	[Dual Band Mode/Single Band Mode](/commands/AE.md)
 
 - ID	[Radio Model](/commands/ID.md)
 
@@ -15,6 +14,20 @@ Available Control commands:
 - FV	[Firmware version](/commands/FV.md)
 
 - TY	[Radio Type](/commands/TY.md)
+
+- DL	[Dual Band Mode/Single Band Mode](/commands/AE.md)
+
+- MR	[Memory channel](/commands/MR.md)
+
+- ME	[Memory channel](/commands/ME.md)
+
+- FO	[VFO channel](/commands/FO.md)
+
+- BC	[PTT and CTRL Band](/commands/BC.md)
+
+- VM	[Memory/VFO](/commands/VM.md)
+
+- MD	[Mode](/commands/MD.md)
 
 - DW	[Emulates the Microphone Down Key](/commands/DW.md)
 
@@ -26,25 +39,9 @@ Available Control commands:
 
 - BY	[Squelch open/closed](/commands/BY.md)
 
-- MR	[Memory channel](/commands/MR.md)
-
-- MS	[My position](/commands/MS.md)
-
-- ME	[Memory channel](/commands/ME.md)
-
 - RX	[Receive](/commands/RX.md)
 
 - TX	[Transmit](/commands/TX.md)
-
-- AS	[TNC baudrate](/commands/AS.md)
-
-- SR	[Reset](/commands/SR.md)
-
-- FO	[VFO channel](/commands/FO.md)
-
-- BC	[PTT and CTRL Band](/commands/BC.md)
-
-- VM	[Memory/VFO](/commands/VM.md)
 
 - BT	[Bluetooth](/commands/BT.md)
 
@@ -56,17 +53,19 @@ Available Control commands:
 
 - TN	[KISS TNC](/commands/TN.md)
 
+- AS	[TNC baudrate](/commands/AS.md)
+
 - CS	[Callsign](/commands/CS.md)
 
 - AG	[AF Gain](/commands/AG.md)
 
 - AI	[Realtime feedback on frequency change etc](/commands/AI.md)
 
+- MS	[My position](/commands/MS.md)
+
 - BE	[APRS Beacon](/commands/BE.md)
 
-- BL	[???](/commands/BL.md)
-
-- BS	[??? 0 and 1](/commands/BS.md)
+- PT	[Beacon control](/commands/PT.md)
 
 - DS	[D-Star callsign slot](/commands/DS.md)
 
@@ -76,15 +75,11 @@ Available Control commands:
 
 - GS	[GPS sentence](/commands/GS.md)
 
-- MD	[Mode](/commands/MD.md)
-
 - RA	[Attenuator](/commands/RA.md)
 
 - SF	[Receive step size](/commands/SF.md)
 
 - SM	[S-meter](/commands/SM.md)
-
-- VD	[VOX delay](/commands/VD.md)
 
 - FR	[FM radio](/commands/FR.md)
 
@@ -98,13 +93,19 @@ Available Control commands:
 
 - LC	[Display light](/commands/LC.md)
 
-- PT	[Beacon control](/commands/PT.md)
-
 - PS	[Master power??](/commands/PS.md)
+
+- VD	[VOX delay](/commands/VD.md)
 
 - VG	[VOX Gain](/commands/VG.md)
 
 - VX	[VOX on/off](/commands/VX.md)
+
+- SR	[Reset](/commands/SR.md)
+
+- BL	[???](/commands/BL.md)
+
+- BS	[??? 0 and 1](/commands/BS.md)
 
 - 0M PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
 
