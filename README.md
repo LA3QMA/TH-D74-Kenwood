@@ -6,9 +6,9 @@ Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH
 
 Available Control commands:
 
-- DL	[Dual Band Mode/Single Band Mode](TH-D74-Kenwood/commands/DL.md)
+- DL	[Dual Band Mode/Single Band Mode](/commands/AE.md)
 
-- ID	Radio Model.
+- ID	[Radio Model](/commands/ID.md)
 
 - AE	Radio serialnumber.
 
