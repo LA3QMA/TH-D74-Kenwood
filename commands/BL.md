@@ -21,3 +21,5 @@ Get the backlight status:
 |7|Level 7
 |8|Level 8
 
+
+# not checked
