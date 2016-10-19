@@ -16,22 +16,22 @@ Returns: memory channel number (3 digit)
 |2|Frequency in Hz 10 digit. must be within selected band
 |3|Offset frequency in Hz 10 digit or transmit freq for odd split
 |4|[Step size](/tables/step_size.md)
-|5|Transmit step size
-|6|Mode
-|7|Fine mode
-|8|Fine step size
-|9|Tone status
-|10|CTCSS status
-|11|DCS status
-|12|CTCSS/DCS status
-|13|Reverse
-|14|Shift direction
-|15|Tone frequency
-|16|CTCSS frequency
-|17|DCS frequency
-|18|Cross encode/decode
+|5|[Transmit step size](/tables/step_size.md)
+|6|[Mode](/tables/mode.md)
+|7|[Fine mode](/tables/finemode.md)
+|8|[Fine step size](/tables/finestep.md)
+|9|[Tone status](/tables/status.md)
+|10|[CTCSS status](/tables/status.md)
+|11|[DCS status](/tables/status.md)
+|12|[CTCSS/DCS status](/tables/status.md)
+|13|[Reverse](/tables/status.md)
+|14|[Shift direction](/tables/shift.md)
+|15|[Tone frequency](/tables/tone_ctcss.md)
+|16|[CTCSS frequency](/tables/tone_ctcss.md)
+|17|[DCS frequency](/tables/DCS.md)
+|18|[Cross encode/decode](/tables/cross.md)
 |19|URCALL
-|20|D-Star squelch type
+|20|[D-Star squelch type](/tables/DSTAR_squelchtype.md)
 |21|D-Star squelch code
 
 

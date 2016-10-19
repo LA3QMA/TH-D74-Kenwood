@@ -107,6 +107,12 @@
 |2|500 Hz
 |3|1000 Hz
 
+||Fine mode|
+|---|---|	
+|*Code*|*Function*|
+|0|off
+|1|on
+
 ||Tone and CTCSS|
 |---|---|
 |*x*|*tone Hz*
