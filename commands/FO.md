@@ -32,6 +32,6 @@ Returns: memory channel number (3 digit)
 |18|[Cross encode/decode](/tables/cross.md)
 |19|URCALL
 |20|[D-Star squelch type](/tables/DSTAR_squelchtype.md)
-|21|D-Star squelch code
+|21|[D-Star squelch code](/tables/DSTAR_squelchcode.md)
 
 
