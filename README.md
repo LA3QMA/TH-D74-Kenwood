@@ -1,7 +1,5 @@
 # TH-D74-Kenwood
-Control commands
-
-Available commands:
+Available Control commands:
 
 - DL	Dual Band Mode/Single Band Mode
 
