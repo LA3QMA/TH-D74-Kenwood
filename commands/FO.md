@@ -12,7 +12,7 @@ Returns: memory channel number (3 digit)
 
 |p|function|
 |---|---|
-|1|Band
+|1|Band(/tables/band.md)
 |2|Frequency in Hz 10 digit. must be within selected band
 |3|Offset frequency in Hz 10 digit or transmit freq for odd split
 |4|[Step size](/tables/step_size.md)
