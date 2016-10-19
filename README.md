@@ -3,106 +3,106 @@ Control commands
 
 Available commands:
 
--DL	Dual Band Mode/Single Band Mode
+- DL	Dual Band Mode/Single Band Mode
 
--ID	Radio Model.
+- ID	Radio Model.
 
--AE	Radio serialnumber.
+- AE	Radio serialnumber.
 
--FV	Firmware version.
+- FV	Firmware version.
 
--TY	Radio Type.
+- TY	Radio Type.
 
--DW	Emulates the Microphone Down Key.
+- DW	Emulates the Microphone Down Key.
 
--UP	Emulates the Microphone Up Key.
+- UP	Emulates the Microphone Up Key.
 
--PC	Sets or reads the output power.
+- PC	Sets or reads the output power.
 
--SQ	Sets or reads the squelch status.
+- SQ	Sets or reads the squelch status.
 
--BY	Reads the squelch status.
+- BY	Reads the squelch status.
 
--MR	Reads the memory channel number.
+- MR	Reads the memory channel number.
 
--MS	Set/read My position
+- MS	Set/read My position
 
--ME	Sets and reads the Memory channel
+- ME	Sets and reads the Memory channel
 
--RX	Sets the radio in receive.
+- RX	Sets the radio in receive.
 
--TX	Sets the radio in transmit.
+- TX	Sets the radio in transmit.
 
--AS	TNC Packet baudrate
+- AS	TNC Packet baudrate
 
--SR	Reset
+- SR	Reset
 
--FO	Sets or reads the VFO channel.
+- FO	Sets or reads the VFO channel.
 
--BC	Sets or reads PTT and CTRL Band.
+- BC	Sets or reads PTT and CTRL Band.
 
--VM	Sets or reads Memory/VFO Mode.
+- VM	Sets or reads Memory/VFO Mode.
 
--BT	Bluetooth
+- BT	Bluetooth
 
--RT	Set or read time
+- RT	Set or read time
 
--GP	Internal GPS on/off
+- GP	Internal GPS on/off
 
--GM	Radio/GPS mode
+- GM	Radio/GPS mode
 
--TN	Get/set TNC
+- TN	Get/set TNC
 
--CS	Callsign
+- CS	Callsign
 
--AG	AF Gain 000 – 200
+- AG	AF Gain 000 – 200
 
--AI	Realtime feedback on frequency change etc
+- AI	Realtime feedback on frequency change etc
 
--BE	Toggles beacon
+- BE	Toggles beacon
 
--BL	???
+- BL	???
 
--BS	??? 0 and 1
+- BS	??? 0 and 1
 
--DS	Select D-Star callsign slot
+- DS	Select D-Star callsign slot
 
--DC	Set/get D-Star callsign. DC slot,callsign,msg
+- DC	Set/get D-Star callsign. DC slot,callsign,msg
 
--FQ	Get/set frequency
+- FQ	Get/set frequency
 
--GS	GPS sentence
+- GS	GPS sentence
 
--MD	Get/set mode
+- MD	Get/set mode
 
--RA	Atenuator
+- RA	Atenuator
 
--SF	receive step size
+- SF	receive step size
 
--SM	S-meter
+- SM	S-meter
 
--VD	VOX delay
+- VD	VOX delay
 
--FR	FM radio on/off
+- FR	FM radio on/off
 
--SH	Filter cutoff
+- SH	Filter cutoff
 
--FT	Fine tuning status
+- FT	Fine tuning status
 
--FS	Fine step
+- FS	Fine step
 
--IO	Get/set IF outputmode
+- IO	Get/set IF outputmode
 
--LC	Display light
+- LC	Display light
 
--PT	Beacon control
+- PT	Beacon control
 
--PS	Master power??
+- PS	Master power??
 
--VG	VOX Gain
+- VG	VOX Gain
 
--VX	VOX on/off
+- VX	VOX on/off
 
--0M PROGRAM	Enters MCP programming mode
+- 0M PROGRAM	Enters MCP programming mode
 
--0G KENWOOD	Enters service mode
+- 0G KENWOOD	Enters service mode
