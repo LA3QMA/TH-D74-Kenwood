@@ -41,3 +41,12 @@
 |7|DR
 |8|WFM
 |9|R-CW
+
+|Memory||
+|---|---|	
+|*Code*|*Function*|
+|nnn|000 to 999
+|Ann|Weather nn
+|Pri|Priority channel
+|Lnn|lower limit for range nn
+|Unn|upper limit for range nn
