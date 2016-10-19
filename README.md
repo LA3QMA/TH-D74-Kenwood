@@ -4,10 +4,9 @@ Reverse engineered commands bases on my first discovery for the TM-D710.
 
 Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH-D74
 
-
 Available Control commands:
 
-- DL	Dual Band Mode/Single Band Mode
+- DL	[Dual Band Mode/Single Band Mode](TH-D74-Kenwood/commands/DL.md)
 
 - ID	Radio Model.
 
