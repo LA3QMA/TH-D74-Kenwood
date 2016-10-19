@@ -20,73 +20,73 @@ Available Control commands:
 
 - UP	[Emulates the Microphone Up Key](/commands/UP.md)
 
-- PC	[Sets or reads the output power](/commands/PC.md)
+- PC	[Output power](/commands/PC.md)
 
-- SQ	[Sets or reads the squelch status](/commands/SQ.md)
+- SQ	[Squelch status](/commands/SQ.md)
 
-- BY	[Reads the squelch status](/commands/BY.md)
+- BY	[Squelch open/closed](/commands/BY.md)
 
-- MR	[Reads the memory channel number](/commands/MR.md)
+- MR	[Memory channel](/commands/MR.md)
 
-- MS	[Set/read My position](/commands/MS.md)
+- MS	[My position](/commands/MS.md)
 
-- ME	[Sets and reads the Memory channel](/commands/ME.md)
+- ME	[Memory channel](/commands/ME.md)
 
-- RX	[Sets the radio in receive](/commands/RX.md)
+- RX	[Receive](/commands/RX.md)
 
-- TX	[Sets the radio in transmit](/commands/TX.md)
+- TX	[Transmit](/commands/TX.md)
 
-- AS	[TNC Packet baudrate](/commands/AS.md)
+- AS	[TNC baudrate](/commands/AS.md)
 
 - SR	[Reset](/commands/SR.md)
 
-- FO	[Sets or reads the VFO channel](/commands/FO.md)
+- FO	[VFO channel](/commands/FO.md)
 
-- BC	[Sets or reads PTT and CTRL Band](/commands/BC.md)
+- BC	[PTT and CTRL Band](/commands/BC.md)
 
-- VM	[Sets or reads Memory/VFO Mode](/commands/VM.md)
+- VM	[Memory/VFO](/commands/VM.md)
 
 - BT	[Bluetooth](/commands/BT.md)
 
-- RT	[Set or read time](/commands/RT.md)
+- RT	[Time](/commands/RT.md)
 
-- GP	[Internal GPS on/off](/commands/GP.md)
+- GP	[Internal GPS](/commands/GP.md)
 
-- GM	[Radio/GPS mode](/commands/GM.md)
+- GM	[Radio/GPS](/commands/GM.md)
 
-- TN	[Get/set TNC](/commands/TN.md)
+- TN	[KISS TNC](/commands/TN.md)
 
 - CS	[Callsign](/commands/CS.md)
 
-- AG	[AF Gain 000 – 200](/commands/AG.md)
+- AG	[AF Gain](/commands/AG.md)
 
 - AI	[Realtime feedback on frequency change etc](/commands/AI.md)
 
-- BE	[Toggles beacon](/commands/BE.md)
+- BE	[APRS Beacon](/commands/BE.md)
 
 - BL	[???](/commands/BL.md)
 
 - BS	[??? 0 and 1](/commands/BS.md)
 
-- DS	[Select D-Star callsign slot](/commands/DS.md)
+- DS	[D-Star callsign slot](/commands/DS.md)
 
-- DC	[Set/get D-Star callsign. DC slot,callsign,msg](/commands/DC.md)
+- DC	[D-Star slot,callsign,msg](/commands/DC.md)
 
-- FQ	[Get/set frequency](/commands/FQ.md)
+- FQ	[Frequency](/commands/FQ.md)
 
 - GS	[GPS sentence](/commands/GS.md)
 
-- MD	[Get/set mode](/commands/MD.md)
+- MD	[Mode](/commands/MD.md)
 
 - RA	[Attenuator](/commands/RA.md)
 
-- SF	[receive step size](/commands/SF.md)
+- SF	[Receive step size](/commands/SF.md)
 
 - SM	[S-meter](/commands/SM.md)
 
 - VD	[VOX delay](/commands/VD.md)
 
-- FR	[FM radio on/off](/commands/FR.md)
+- FR	[FM radio](/commands/FR.md)
 
 - SH	[Filter cutoff](/commands/SH.md)
 
