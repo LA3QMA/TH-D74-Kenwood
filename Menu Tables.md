@@ -1,10 +1,10 @@
-| DATA BAND | |
+||DATA BAND|
 | --- | --- |
 | *Code* | *Function* |
 | 0 | Band A |
 | 1 | Band B |
 
-| Filter cutoff | |
+||Filter cutoff|
 | --- | --- |
 | *Code* | *Function* |
 | 0 | 2.2KHz |
@@ -13,14 +13,14 @@
 | 3 | 2.8KHz |
 | 4 | 3.0KHz |
 
-|Frequency source||
+||Frequency source|
 |---|---|
 |*Code*|*Function*|
 |0|VFO
 |1|MR
 |2|Call
 
-|Shift||
+||Shift|
 |---|---|
 |*Code*|*Function*|
 |0|simplex
@@ -28,7 +28,7 @@
 |2|down
 |3|split?
 
-|Mode||	
+||Mode|	
 |---|---|
 |*Code*|*Function*|
 |0|FM
@@ -42,7 +42,7 @@
 |8|WFM
 |9|R-CW
 
-|Memory||
+||Memory|
 |---|---|	
 |*Code*|*Function*|
 |nnn|000 to 999
@@ -51,20 +51,20 @@
 |Lnn|lower limit for range nn
 |Unn|upper limit for range nn
 
-|Status||
+||Status|
 |---|---|	
 |*Code*|*Function*|
 |0|off
 |1|on
 
-|D-Star squelch||
+||D-Star squelch|
 |---|---|	
 |*Code*|*Function*|
 |0|Off
 |1|Code squelch
 |2|Callsign squelch
 
-|VOX Delay||
+||VOX Delay|
 |---|---|	
 |*Code*|*Function*|
 |0|250 ms
@@ -75,7 +75,7 @@
 |5|2000 ms
 |6|3000 ms
 
-|Cross encode/decode||
+||Cross encode/decode|
 |---|---|	
 |*Code*|*Function*|
 |0|DCS/off
@@ -83,7 +83,7 @@
 |2|DCS/CTCSS
 |3|Tone/CTCSS
 
-|Step size||
+||Step size|
 |---|---|	
 |*Code*|*Function*|
 |0|5 Khz
@@ -99,7 +99,7 @@
 |A|50 Khz
 |B|100 Khz
 
-|Fine step data||
+||Fine step data|
 |---|---|	
 |*Code*|*Function*|
 |0|20 Hz
