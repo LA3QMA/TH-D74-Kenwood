@@ -12,3 +12,18 @@
 | 2 | 2.6KHz |
 | 3 | 2.8KHz |
 | 4 | 3.0KHz |
+
+|Frequency source||
+|---|---|
+|*Code*|*Function*|
+|0|VFO
+|1|MR
+|2|Call
+
+|Shift||
+|---|---|
+|*Code*|*Function*|
+|0|simplex
+|1|up
+|2|down
+|3|split?
