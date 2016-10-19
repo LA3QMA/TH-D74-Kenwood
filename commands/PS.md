@@ -1,7 +1,7 @@
 __Set/Read unknown__
 
 
-Get the beacon control:
+Get unknown:
 
 	PS
 

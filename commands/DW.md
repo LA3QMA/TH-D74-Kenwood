@@ -4,7 +4,8 @@ One step down:
 
 	DW
 
-n steps down (frequency/memory):
+n steps down (frequency/memory):	*not confirmed*
 
-	DL n
+	DW n
+
 	

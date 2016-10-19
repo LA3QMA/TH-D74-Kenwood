@@ -6,7 +6,7 @@ Set the fine tune:
 
 Get the fine tune:
 
-	FT
+	FS
 
 Returns: p1,p2
 	

@@ -10,4 +10,4 @@ Get AF gain:
 
 Returns: x
 	
-values between 000 and 2000
+values between 000 and 200

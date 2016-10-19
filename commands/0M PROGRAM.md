@@ -4,4 +4,4 @@ Set:
 
 	0M PROGRAM
 
-__Enters the MCP programming mode___ *This command has to be uppercase*
+__Enters the MCP programming mode__ *This command has to be uppercase*

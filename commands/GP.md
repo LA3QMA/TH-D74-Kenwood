@@ -10,12 +10,12 @@ Get GPS mode:
 
 Returns: p1, p2
 	
-|p1|
+|p1|function|
 |---|---|
 |0|off
 |1|on
 
-|p2|
+|p2|function|
 |---|---|
 |0|iGPS
 |1|iGPS and data out

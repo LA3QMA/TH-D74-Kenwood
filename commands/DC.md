@@ -2,11 +2,11 @@ __Set/Read D-Star callsign slot__
 
 Set D-Star callsign slot:
 
-	CS p1, p2, p3
+	DC p1, p2, p3
 
 Get D-Star callsign slot:
 
-	CS
+	DC
 
 Returns: p1, p2, p3
 	

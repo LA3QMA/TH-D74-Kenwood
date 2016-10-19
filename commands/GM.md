@@ -10,7 +10,7 @@ Get radio/GPS mode:
 
 Returns: x
 	
-|x|
+|x|function|
 |---|---|
-|0|Radio + internal GPS
-|1|Radio off + internal GPS
+|0|Radio and internal GPS
+|1|Radio off and internal GPS on

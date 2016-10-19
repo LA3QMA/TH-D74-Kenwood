@@ -8,5 +8,9 @@ Read the PTT/CTRL band:
 
 	BC
 	
-Returns: 0: band A, 1: band B
+Returns: x
 
+|x|function
+|---|---|
+|0|Band A
+|1|Band B

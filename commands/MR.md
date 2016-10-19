@@ -2,13 +2,15 @@ __Set/Read the memory channel__
 
 Set the memory channel:
 
-	MR n,x
+	MR n,nnn
 
 Read the memory channel:
 
 	MR n
 	
-Returns: memory channel number (3 digit)
+Returns: nnn
+
+memory channel number (3 digit)
 
 |n|Band|
 |---|---|

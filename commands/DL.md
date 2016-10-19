@@ -12,4 +12,9 @@ Read:
 
 	DL
 	
-Returns: 0: dual band, 1: single band
+Returns: x
+
+|code|function|
+|---|---|
+|0|Dual band
+|1|Single band
