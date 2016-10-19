@@ -12,12 +12,12 @@ n: 0: band A, 1: band B
 
 Returns: x
 
-|n||
+|n|Band|
 |---|---|
 |0|Band A
 |1|Band B
 
-|x||
+|x|Power|
 |---|---|
 |0|high
 |1|low
