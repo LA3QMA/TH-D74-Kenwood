@@ -1,10 +1,18 @@
-__Set/Read unknown__
+__Get battery level__
 
-Set/Read unknown
+Get battery level
 
 Get:
 
 	BL
 
-Returns: unknown
+Returns: n
+
+|n|battery level|
+|---|---|
+|0|
+|1|
+|2|
+|3|Full
+
 

@@ -105,7 +105,7 @@ Available Control commands: (Firmware V1.05)
 
 - SR	[Reset](/commands/SR.md)
 
-- BL	[??? responds with 1 and 2 and 3](/commands/BL.md)
+- BL	[Battery level](/commands/BL.md)
 
 - BS	[Bar antenna](/commands/BS.md)
 
