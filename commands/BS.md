@@ -1,7 +1,18 @@
-__Set/Read unknown__
+__Set/Get Bar antenna__
 
-Get:
+Get the antenna status:
 
 	BS
 
-unknown
+Returns: x
+
+
+Set:
+
+	BS n
+	
+
+|n|Antenna|
+|---|---|
+|0|ANT connector
+|1|Bar antenna

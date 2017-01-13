@@ -6,7 +6,7 @@ Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH
 
 https://groups.yahoo.com/neo/groups/Kenwood_TH-D74
 
-Available Control commands:
+Available Control commands: (Firmware V1.05)
 
 
 - ID	[Radio Model](/commands/ID.md)
@@ -105,9 +105,9 @@ Available Control commands:
 
 - SR	[Reset](/commands/SR.md)
 
-- BL	[???](/commands/BL.md)
+- BL	[??? responds with 1 and 2 and 3](/commands/BL.md)
 
-- BS	[??? 0 and 1](/commands/BS.md)
+- BS	[Bar antenna](/commands/BS.md)
 
 - 0M PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
 
