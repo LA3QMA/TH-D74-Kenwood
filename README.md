@@ -1,10 +1,10 @@
 # TH-D74-Kenwood - PC RIG control commands
 
-Reverse engineered commands bases on my first discovery for the TM-D710.
+Reverse engineered commands based on my first discovery for the TM-D710.
 
 Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH-D74
 
-https://groups.yahoo.com/neo/groups/Kenwood_TH-D74
+https://groups.yahoo.com/neo/groups/Kenwood_TH-D74 (GitHub is usually the most updated version)
 
 Available Control commands: (Firmware V1.05)
 
