@@ -10,8 +10,8 @@ Returns: n
 
 |n|battery level|
 |---|---|
-|0|
-|1|
+|0|red outline battery
+|1|1 red/orange bar
 |2|
 |3|Full
 
