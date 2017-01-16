@@ -12,7 +12,7 @@ Returns: n
 |---|---|
 |0|red outline battery
 |1|1 red/orange bar
-|2|
+|2|1 green bar
 |3|Full
 
 
