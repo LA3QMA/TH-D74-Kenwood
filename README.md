@@ -23,8 +23,6 @@ Available Control commands: (Firmware V1.05)
 
 - ME	[Memory channel](/commands/ME.md)
 
-- MN    [unknown]
-
 - FO	[VFO channel](/commands/FO.md)
 
 - BC	[PTT and CTRL Band](/commands/BC.md)
