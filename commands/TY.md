@@ -6,8 +6,8 @@ Get radio firmware:
 
 Returns: radio type
 
-
+||Radio type|
 |---|---|---|
-|Model|return|detail
-|TH-D74E|E,5|Not modified
-|TH-D74E|E,6|hardware extended TX modified
+|Model|return|detail|
+|TH-D74E|E,5|Not modified|
+|TH-D74E|E,6|hardware extended TX modified|
