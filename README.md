@@ -3,6 +3,7 @@
 Reverse engineered commands based on my first discovery for the TM-D710.
 
 Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH-D74
+
 Thanks to: M1HOG Nicolas - for helping updating and verifying commands/tables
 
 https://groups.yahoo.com/neo/groups/Kenwood_TH-D74 (GitHub is usually the most updated version)
@@ -110,6 +111,6 @@ Available Control commands: (Firmware V1.05)
 
 - BS	[Bar antenna](/commands/BS.md)
 
-- 0M_PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
+- 0M PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
 
-- 0G_KENWOOD	[Enters service mode](/commands/0G KENWOOD.md)
+- 0G KENWOOD	[Enters service mode](/commands/0G KENWOOD.md)
