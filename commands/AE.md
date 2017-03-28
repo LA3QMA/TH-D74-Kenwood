@@ -6,3 +6,5 @@ Get the serialnumber:
 	
 Returns: serialnumber, model
 
+
+TH-D74E: xxxxxxxx, E01
