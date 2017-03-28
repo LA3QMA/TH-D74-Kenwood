@@ -4,8 +4,5 @@ One step down:
 
 	DW
 
-n steps down (frequency/memory):	*not confirmed*
-
-	DW n
-
+frequency/memory one step down
 	

@@ -4,7 +4,4 @@ One step up:
 
 	UP
 
-n steps up (frequency/memory): (*not confirmed*)
-
-	UP n
-	
+frequency/memory one step up	
