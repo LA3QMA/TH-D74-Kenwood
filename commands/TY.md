@@ -1,6 +1,6 @@
 __Radio Type__
 
-Get radio firmware:
+Get radio type:
 
 	TY
 

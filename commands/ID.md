@@ -6,3 +6,5 @@ Get radio model:
 
 Returns: radio ID
 
+
+i.e TH-D74

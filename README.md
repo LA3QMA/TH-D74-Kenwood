@@ -13,13 +13,13 @@ Available Control commands: (Firmware V1.05)
 
 - ID	[Radio Model](/commands/ID.md)
 
-- AE	[Radio serialnumber](/commands/AE.md)
+- AE	[Radio serialnumber and model](/commands/AE.md)
 
 - FV	[Firmware version](/commands/FV.md)
 
 - TY	[Radio Type](/commands/TY.md)
 
-- DL	[Dual Band Mode/Single Band Mode](/commands/AE.md)
+- DL	[Dual Band Mode/Single Band Mode](/commands/DL.md)
 
 - MR	[Memory channel](/commands/MR.md)
 

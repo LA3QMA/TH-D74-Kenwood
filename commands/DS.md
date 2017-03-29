@@ -10,7 +10,7 @@ Get D-Star callsign slot:
 
 Returns: n
 	
-|n|
+||n|
 |---|---|
 |1|D-Star callsign slot #1
 |2|D-Star callsign slot #2
@@ -18,3 +18,4 @@ Returns: n
 |4|D-Star callsign slot #4
 |5|D-Star callsign slot #5
 |6|D-Star callsign slot #6
+

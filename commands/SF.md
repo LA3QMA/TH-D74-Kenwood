@@ -16,7 +16,7 @@ Returns: p1,p2
 |1|Band B
 
 
-Version Euro E,5
+||Version Euro E,5|
 |p2|step size
 |---|---|
 |0|5KHz
@@ -32,7 +32,7 @@ Version Euro E,5
 |A|50KHz
 |B|100KHz
 
-Version Euro E,6
+||Version Euro E,6|
 |p2|step size
 |---|---|
 |0|5KHz
