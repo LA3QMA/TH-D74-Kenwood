@@ -8,7 +8,7 @@ Thanks to: M1HOG Nicolas, AG6IE Eric Wolak - for helping updating and verifying 
 
 https://groups.yahoo.com/neo/groups/Kenwood_TH-D74 (GitHub is usually the most updated version)
 
-Available Control commands: (Firmware V1.05)
+Available Control commands: (Firmware V1.08)
 
 
 - ID	[Radio Model](/commands/ID.md)
