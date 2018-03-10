@@ -17,8 +17,8 @@ Returns: p1,p2
 
 
 ||Version Euro E,5|
-|p2|step size
 |---|---|
+|*p2*|*step size*
 |0|5KHz
 |1|6.25KHz
 |2|8.33KHz
@@ -33,8 +33,8 @@ Returns: p1,p2
 |B|100KHz
 
 ||Version Euro E,6|
-|p2|step size
 |---|---|
+|*p2*|*step size*
 |0|5KHz
 |1|6.25KHz
 |2|N
