@@ -10,12 +10,12 @@ Get mode:
 
 Returns: MD p1,p2
 
-| p1  | Band |
+| p1  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |
 
-| p2  | Mode |
+| p2  | [Mode](/tables/mode.md) |
 | --- | --- |
 | 0 | FM   |
 | 1 | DV   |

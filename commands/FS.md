@@ -10,7 +10,7 @@ Get the fine tune step size:
 
 Returns: FS p1
 
-| p1  | Step size |
+| p1  | [Step size](/tables/finestep.md) |
 | --- | --- |
 | 0 | 20 Hz   |
 | 1 | 100 Hz  |

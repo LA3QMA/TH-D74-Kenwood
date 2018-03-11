@@ -10,7 +10,7 @@ Get FM-radio status:
 
 Returns: FR p1
 
-| p1  | FM-radio status |
+| p1  | FM-radio [status](/tables/status.md) |
 | --- | --- |
 | 0 | Off |
 | 1 | On  |

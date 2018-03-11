@@ -10,7 +10,7 @@ Get frequency:
 
 Returns: FQ p1,p2
 
-| p1  | Band |
+| p1  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |

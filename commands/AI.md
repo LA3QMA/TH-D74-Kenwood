@@ -10,7 +10,7 @@ Get feedback status:
 
 Returns: AI p1
 
-| p1  | Feedback status |
+| p1  | Feedback [status](/tables/status.md) |
 | --- | --- |
 | 0 | Off |
 | 1 | On  |

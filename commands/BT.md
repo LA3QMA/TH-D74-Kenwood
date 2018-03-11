@@ -10,7 +10,7 @@ Get Bluetooth:
 
 Returns: BT p1
 
-| p1  | Bluetooth status |
+| p1  | Bluetooth [status](/tables/status.md) |
 | --- | --- |
 | 0 | Off |
 | 1 | On  |

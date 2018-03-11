@@ -10,7 +10,7 @@ Get PTT/CTRL band:
 
 Returns: BC p1
 
-| p1  | Band |
+| p1  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |

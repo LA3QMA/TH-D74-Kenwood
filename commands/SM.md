@@ -10,7 +10,7 @@ Get S-meter squelch:
 
 Returns: SM p1,p2
 
-| p1  | Band |
+| p1  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |

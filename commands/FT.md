@@ -10,7 +10,7 @@ Get fine tune status:
 
 Returns: FT p1
 
-| p1  | Fine tune status |
+| p1  | Fine tune [status](/tables/finemode.md) |
 | --- | --- |
 | 0 | Off |
 | 1 | On  |

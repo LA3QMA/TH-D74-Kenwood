@@ -10,7 +10,7 @@ Get step size:
 
 Returns: SF p1,p2
 
-| p1  | Band |
+| p1  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |
@@ -18,7 +18,7 @@ Returns: SF p1,p2
 
 Version Euro E,5:
 
-| p2  | Step size |
+| p2  | [Step size](/tables/step_size.md) |
 | --- | --- |
 | 0 | 5 kHz    |
 | 1 | 6.25 kHz |
@@ -42,7 +42,7 @@ Version Euro E,5:
 
 Version Euro E,6:
 
-| p2  | Step size |
+| p2  | [Step size](/tables/step_size.md) |
 | --- | --- |
 | 0 | 5 kHz    |
 | 1 | 6.25 kHz |

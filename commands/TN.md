@@ -16,7 +16,7 @@ Returns: TN p1,p2
 | 1 | APRS |
 | 2 | KISS |
 
-| p2  | Band |
+| p2  | [Band](/tables/band.md) |
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |
