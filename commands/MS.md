@@ -1,4 +1,4 @@
-__Set/Read my position for APRS__
+__Set/Read my position source for APRS__
 
 Set APRS position source:
 
@@ -8,7 +8,7 @@ Get APRS position source:
 
 	MS
 
-Returns: p1
+Returns: MS p1
 
 | p1  | APRS position source|
 | --- | --- |

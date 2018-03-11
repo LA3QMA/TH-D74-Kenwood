@@ -8,7 +8,7 @@ Get the fine tune step size:
 
 	FS
 
-Returns: p1
+Returns: FS p1
 
 | p1  | Step size |
 | --- | --- |

@@ -4,7 +4,7 @@ Get squelch status:
 
 	BY p1
 
-Returns: p1,p2
+Returns: BY p1,p2
 
 | p1  | Band |
 | --- | --- |

@@ -4,6 +4,7 @@ Get radio model:
 
 	ID
 
-Returns: Radio ID
+Returns: ID p1
 
-i.e. TH-D74
+| p1  | Radio ID, i.e. TH-D74 |
+| --- | --- |

@@ -8,7 +8,7 @@ Get Bluetooth:
 
 	BT
 
-Returns: p1
+Returns: BT p1
 
 | p1  | Bluetooth status |
 | --- | --- |

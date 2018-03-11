@@ -8,7 +8,7 @@ Get VFO channel:
 
 	FO p1
 
-Returns: Set of 21 parameters
+Returns: FO p1,...,p21
 
 | p   | Function |
 | --- | --- |

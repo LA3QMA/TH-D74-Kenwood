@@ -8,7 +8,7 @@ Get PTT/CTRL band:
 
 	BC
 
-Returns: p1
+Returns: BC p1
 
 | p1  | Band |
 | --- | --- |

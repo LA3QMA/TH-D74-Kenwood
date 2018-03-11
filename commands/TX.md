@@ -4,6 +4,13 @@ Set radio to TX:
 
 	TX
 
+Returns: TX p1
+
+| p1  | Band |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
+
 Set radio to RX:
 
 	RX

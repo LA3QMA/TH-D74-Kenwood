@@ -4,7 +4,7 @@ Get serial number:
 
 	AE
 
-Returns: p1,p2
+Returns: AE p1,p2
 
 | p1  | Serial Number |
 | --- | --- |

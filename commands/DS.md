@@ -8,7 +8,7 @@ Get D-Star callsign slot:
 
 	DS
 
-Returns: p1
+Returns: DS p1
 
 | p1  | Callsign slot |
 | --- |---|
@@ -18,4 +18,3 @@ Returns: p1
 | 4 | D-Star callsign slot 4 |
 | 5 | D-Star callsign slot 5 |
 | 6 | D-Star callsign slot 6 |
-

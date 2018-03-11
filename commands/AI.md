@@ -8,7 +8,7 @@ Get feedback status:
 
 	AI
 
-Returns: p1
+Returns: AI p1
 
 | p1  | Feedback status |
 | --- | --- |

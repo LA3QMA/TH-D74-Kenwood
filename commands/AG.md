@@ -8,7 +8,7 @@ Get AF gain:
 
 	AG
 
-Returns: p1
+Returns: AG p1
 
 | p1  | Function |
 | --- | --- |

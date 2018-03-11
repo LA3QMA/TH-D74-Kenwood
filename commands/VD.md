@@ -8,7 +8,7 @@ Get VOX delay:
 
 	VD
 
-Returns: p1
+Returns: VD p1
 
 | p1  | VOX delay |
 | --- | --- |

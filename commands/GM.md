@@ -8,7 +8,7 @@ Get radio/GPS mode:
 
 	GM
 
-Returns: p1
+Returns: GM p1
 
 | p1  | Function |
 | --- | --- |

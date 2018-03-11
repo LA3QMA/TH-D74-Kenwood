@@ -8,7 +8,7 @@ Get memory channel:
 
 	MR p1
 
-Returns: p2
+Returns: MR p2
 
 | p1  | Band |
 | --- | --- |

@@ -8,7 +8,7 @@ Get frequency:
 
 	FQ p1
 
-Returns: p1,p2
+Returns: FQ p1,p2
 
 | p1  | Band |
 | --- | --- |

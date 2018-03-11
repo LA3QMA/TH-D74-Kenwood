@@ -8,7 +8,7 @@ Get VOX gain:
 
 	VG
 
-Returns: p1
+Returns: VG p1
 
 | p1  | VOX gain |
 | --- | --- |

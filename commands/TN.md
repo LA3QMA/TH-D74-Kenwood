@@ -8,7 +8,7 @@ Get TNC mode:
 
 	TN
 
-Returns: p1,p2
+Returns: TN p1,p2
 
 | p1  | Function |
 | --- | --- |

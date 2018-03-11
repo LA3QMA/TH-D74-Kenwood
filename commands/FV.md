@@ -4,5 +4,7 @@ Get radio firmware:
 
 	FV
 
-Returns: Radio firmware
-i.e.: FV 1.08
+Returns: FV p1
+
+| p1  | Radio firmware, i.e.: FV 1.08 |
+| --- | --- |

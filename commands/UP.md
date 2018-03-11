@@ -4,4 +4,6 @@ One step up:
 
 	UP
 
+Returns: UP
+
 Action: Frequency/memory one step up or wrap around on upper boundary

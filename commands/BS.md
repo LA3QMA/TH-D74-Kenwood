@@ -8,7 +8,7 @@ Get antenna in use:
 
 	BS
 
-Returns: p1
+Returns: BS p1
 
 | p1  | Antenna |
 | --- | --- |

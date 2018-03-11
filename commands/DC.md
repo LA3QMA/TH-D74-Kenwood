@@ -1,14 +1,14 @@
-__Set/Read D-Star callsign slot__
+__Set/Read D-Star callsign message__
 
-Set D-Star callsign slot:
+Set D-Star callsign message:
 
 	DC p1,p2,p3
 
-Get D-Star callsign slot:
+Get D-Star callsign message:
 
-	DC
+	DC p1
 
-Returns: p1,p2,p3
+Returns: DC p1,p2,p3
 
 | p1  | Slot |
 | --- | --- |

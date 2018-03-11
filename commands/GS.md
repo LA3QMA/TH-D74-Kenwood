@@ -8,7 +8,7 @@ Get GPS sentences output status:
 
 	GS
 
-Returns: p1,p2,p3,p4,p5,p6
+Returns: GS p1,p2,p3,p4,p5,p6
 
 | p1  | $GPGGA sentence status |
 | --- | --- |

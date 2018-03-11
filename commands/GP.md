@@ -8,7 +8,7 @@ Get GPS mode:
 
 	GP
 
-Returns: p1,p2
+Returns: GP p1,p2
 
 | p1  | GPS status |
 | --- | --- |

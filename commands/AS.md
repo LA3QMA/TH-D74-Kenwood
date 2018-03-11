@@ -8,7 +8,7 @@ Get TNC Baud rate:
 
 	AS
 
-Returns: p1
+Returns: AS p1
 
 | p1  | TNC Baud rate |
 | --- | --- |

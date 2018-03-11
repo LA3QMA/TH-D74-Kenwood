@@ -8,7 +8,7 @@ Get single/dual band mode:
 
 	DL
 
-Returns: p1
+Returns: DL p1
 
 | p1  | Function |
 | --- | --- |

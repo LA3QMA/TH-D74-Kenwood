@@ -8,7 +8,7 @@ Get memory channel:
 
 	ME p1
 
-Returns: Set of 22 parameters
+Returns: ME p1,...,p22
 
 | p   | Function |
 | --- | --- |

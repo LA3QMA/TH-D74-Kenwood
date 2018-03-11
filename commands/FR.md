@@ -8,7 +8,7 @@ Get FM-radio status:
 
 	FR
 
-Returns: p1
+Returns: FR p1
 
 | p1  | FM-radio status |
 | --- | --- |

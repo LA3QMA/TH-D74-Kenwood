@@ -8,7 +8,7 @@ Get IF mode:
 
 	IO
 
-Returns: p1
+Returns: IO p1
 
 | p1  | IF mode |
 | --- | --- |

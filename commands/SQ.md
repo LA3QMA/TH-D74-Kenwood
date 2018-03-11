@@ -8,7 +8,7 @@ Get squelch:
 
 	SQ p1
 
-Returns: p1,p2
+Returns: SQ p1,p2
 
 | p1  | Band |
 | --- | --- |

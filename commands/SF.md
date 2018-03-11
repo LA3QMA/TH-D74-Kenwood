@@ -8,7 +8,7 @@ Get step size:
 
 	SF p1
 
-Returns: p1,p2
+Returns: SF p1,p2
 
 | p1  | Band |
 | --- | --- |
@@ -16,7 +16,8 @@ Returns: p1,p2
 | 1 | Band B |
 
 
-Version Euro E,5
+Version Euro E,5:
+
 | p2  | Step size |
 | --- | --- |
 | 0 | 5 kHz    |
@@ -39,7 +40,8 @@ Version Euro E,5
 50 kHz is the only step size in range 76.000 - 107.999
 
 
-Version Euro E,6
+Version Euro E,6:
+
 | p2  | Step size |
 | --- | --- |
 | 0 | 5 kHz    |

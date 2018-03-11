@@ -8,7 +8,7 @@ Get output power:
 
 	PC p1
 
-Returns: p1,p2
+Returns: PC p1,p2
 
 | p1  | Band |
 | --- | --- |

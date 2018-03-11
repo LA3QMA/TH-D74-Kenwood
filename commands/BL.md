@@ -4,7 +4,7 @@ Get battery level:
 
 	BL
 
-Returns: p1
+Returns: BL p1
 
 | p1  | Battery level |
 | --- | --- |

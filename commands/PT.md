@@ -8,7 +8,7 @@ Get beacon control:
 
 	PT
 
-Returns: p1
+Returns: PT p1
 
 | p1  | Beacon TX control |
 | --- | --- |

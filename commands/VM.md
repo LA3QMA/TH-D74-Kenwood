@@ -8,7 +8,7 @@ Get memory/VFO mode:
 
 	VM p1
 
-Returns: p1,p2
+Returns: VM p1,p2
 
 | p1  | Band |
 | --- | --- |

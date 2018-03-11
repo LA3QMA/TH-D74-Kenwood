@@ -8,7 +8,7 @@ Get fine tune status:
 
 	FT
 
-Returns: p1
+Returns: FT p1
 
 | p1  | Fine tune status |
 | --- | --- |

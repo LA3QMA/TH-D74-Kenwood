@@ -8,7 +8,7 @@ Get time:
 
 	RT
 
-Returns: p1p2p3p4p5p6
+Returns: RT p1p2p3p4p5p6
 
 | p   | Function |
 | --- | --- |

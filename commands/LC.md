@@ -8,7 +8,7 @@ Get backlight control:
 
 	LC
 
-Returns: p1
+Returns: LC p1
 
 | p1  | Backlight mode |
 | --- | --- |

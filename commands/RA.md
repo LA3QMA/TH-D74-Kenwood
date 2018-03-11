@@ -8,7 +8,7 @@ Get attenuator:
 
 	RA p1
 
-Returns: p1,p2
+Returns: RA p1,p2
 
 | p1  | Band |
 | --- | --- |

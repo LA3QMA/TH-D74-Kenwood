@@ -8,7 +8,7 @@ Get VOX:
 
 	VX
 
-Returns: p1
+Returns: VX p1
 
 | p1  | VOX status|
 | --- | --- |
