@@ -1,18 +1,16 @@
 __Set/Read VOX status__
 
-Set the VOX:
+Set VOX:
 
-	VX n
+	VX p1
 
-Get the VOX status:
+Get VOX:
 
 	VX
 
-Returns: n
-	
-|n|VOX|
-|---|---|
-|0|off
-|1|on
+Returns: p1
 
-
+| p1  | VOX status|
+| --- | --- |
+| 0 | Off |
+| 1 | On  |

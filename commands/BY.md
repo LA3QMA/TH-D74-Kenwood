@@ -1,19 +1,17 @@
-__Set/Read the squelch status__
+__Read squelch status__
 
-Read the squelch status:
+Get squelch status:
 
-	BY n
-	
-n: 0: band A, 1: band B
+	BY p1
 
-Returns: x
+Returns: p1,p2
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
+| p1  | Band |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
 
-|x|Squelch status|
-|---|---|
-|0|closed
-|1|open
+| p2  | Squelch status |
+| --- | --- |
+| 0 | Closed |
+| 1 | Open   |

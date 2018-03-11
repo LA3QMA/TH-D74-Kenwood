@@ -1,13 +1,17 @@
-__Read IF mode__
+__Set/Read IF mode__
 
-Get the IF mode:
+Set IF mode:
+
+	IO p1
+
+Get IF mode:
 
 	IO
 
-Returns: x
-	
-|x|IF mode
-|---|---|
-|0|off
-|1|IF
-|2|detect
+Returns: p1
+
+| p1  | IF mode |
+| --- | --- |
+| 0 | Off    |
+| 1 | IF     |
+| 2 | Detect |

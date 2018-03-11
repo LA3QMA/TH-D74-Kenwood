@@ -1,19 +1,18 @@
-__Get/Read display light__
+__Set/Read display backlight control__
 
-Set the display light:
+Set backlight control:
 
-	LC x
+	LC p1
 
-Get the IF mode:
+Get backlight control:
 
 	LC
 
-Returns: x
-	
-|x|light
-|---|---|
-|0|auto
-|1|auto dc
-|2|manual
-|3|on
+Returns: p1
 
+| p1  | Backlight mode |
+| --- | --- |
+| 0 | Manual       |
+| 1 | On           |
+| 2 | Auto         |
+| 3 | Auto (DC-IN) |

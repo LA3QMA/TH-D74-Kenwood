@@ -1,7 +1,7 @@
-||Shift|
-|---|---|
-|*Code*|*Function*|
-|0|simplex
-|1|up
-|2|down
-|3|split?
+|| Shift |
+| --- | --- |
+| *Code* | *Function* |
+| 0 | Simplex |
+| 1 | Up      |
+| 2 | Down    |
+| 3 | Split?  |

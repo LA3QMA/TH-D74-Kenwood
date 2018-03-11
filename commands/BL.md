@@ -1,18 +1,15 @@
-__Get battery level__
+__Read battery level__
 
-Get battery level
-
-Get:
+Get battery level:
 
 	BL
 
-Returns: n
+Returns: p1
 
-|n|battery level|
-|---|---|
-|0|red outline battery
-|1|1 red/orange bar
-|2|1 green bar
-|3|Full
-
-
+| p1  | Battery level |
+| --- | --- |
+| 0 | Red outline battery |
+| 1 | One red/orange bar  |
+| 2 | One green bar       |
+| 3 | Full                |
+| 4 | Charging            |

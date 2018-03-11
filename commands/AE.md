@@ -1,16 +1,20 @@
-__Read the serialnumber__
+__Read serial number__
 
-Get the serialnumber:
+Get serial number:
 
 	AE
-	
-Returns: serialnumber, model
 
-|Model|result|detail|
-|---|---|---|
-|TH-D74A|K01|Not modified|
-|TH-D74A|K01|Hardware extended TX modified|
-|TH-D74E|E01|Not modified|
-|TH-D74E|E01|Hardware extended TX modified|
-|TH-D74K|**Need feedback**|Not modified|
-|TH-D74K|**Need feedback**|Hardware extended TX modified|
+Returns: p1,p2
+
+| p1  | Serial Number |
+| --- | --- |
+
+| Model | p2 | Detail |
+| --- | --- | --- |
+| TH-D74A | K01 | K-type/U.S.A. and Canada |
+| TH-D74E | E01 | E-type/Europe            |
+| TH-D74  | **Need feedback** | J-type/Japan             |
+| TH-D74A | **Need feedback** | M-type/General           |
+| TH-D74K | **Need feedback** | ?                        |
+
+See also the [TY](TY.md) command.

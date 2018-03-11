@@ -1,50 +1,56 @@
 __Set/Read step size__
 
-Set the step size:
+Set step size:
 
 	SF p1,p2
 
-Get the step size:
+Get step size:
 
 	SF p1
 
 Returns: p1,p2
-	
-|x|band
-|---|---|
-|0|Band A
-|1|Band B
+
+| p1  | Band |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
 
 
-||Version Euro E,5|
-|---|---|
-|*p2*|*step size*
-|0|5KHz
-|1|6.25KHz
-|2|8.33KHz
-|3|N
-|4|10KHz
-|5|12.5KHz
-|6|15KHz
-|7|20KHz
-|8|25KHz
-|9|30KHz
-|A|50KHz
-|B|100KHz
+Version Euro E,5
+| p2  | Step size |
+| --- | --- |
+| 0 | 5 kHz    |
+| 1 | 6.25 kHz |
+| 2 | 8.33 kHz |
+| 3 | 9 kHz    |
+| 4 | 10 kHz   |
+| 5 | 12.5 kHz |
+| 6 | 15 kHz   |
+| 7 | 20 kHz   |
+| 8 | 25 kHz   |
+| 9 | 30 kHz   |
+| A | 50 kHz   |
+| B | 100 kHz  |
 
-||Version Euro E,6|
-|---|---|
-|*p2*|*step size*
-|0|5KHz
-|1|6.25KHz
-|2|N
-|3|N
-|4|10KHz
-|5|12.5KHz
-|6|15KHz
-|7|20KHz
-|8|25KHz
-|9|30KHz
-|A|50KHz
-|B|100KHz
+8.33 kHz is limited to range 108.000 - 135.999
 
+9 kHz is limited to range 0.100 - 1.709
+
+50 kHz is the only step size in range 76.000 - 107.999
+
+
+Version Euro E,6
+| p2  | Step size |
+| --- | --- |
+| 0 | 5 kHz    |
+| 1 | 6.25 kHz |
+| 2 | N        |
+| 3 | N        |
+| 4 | 10 kHz   |
+| 5 | 12.5 kHz |
+| 6 | 15 kHz   |
+| 7 | 20 kHz   |
+| 8 | 25 kHz   |
+| 9 | 30 kHz   |
+| A | 50 kHz   |
+| B | 100 kHz  |

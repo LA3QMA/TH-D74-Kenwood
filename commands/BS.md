@@ -1,18 +1,16 @@
-__Set/Get Bar antenna__
+__Set/Read bar antenna__
 
-Get the antenna status:
+Set antenna to use:
+
+	BS p1
+
+Get antenna in use:
 
 	BS
 
-Returns: x
+Returns: p1
 
-
-Set:
-
-	BS n
-	
-
-|n|Antenna|
-|---|---|
-|0|ANT connector
-|1|Bar antenna
+| p1  | Antenna |
+| --- | --- |
+| 0 | ANT connector        |
+| 1 | Internal bar antenna |

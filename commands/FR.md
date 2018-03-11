@@ -1,17 +1,17 @@
 __Set/Read FM-radio__
 
-Set the FM radio:
+Set FM-radio status:
 
-	FR x
+	FR p1
 
-Get the FM-radio status:
+Get FM-radio status:
 
 	FR
 
-Returns: x
-	
-|x|FM-radio
-|---|---|
-|0|off
-|1|on
+Returns: p1
+
+| p1  | FM-radio status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 

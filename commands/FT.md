@@ -1,17 +1,17 @@
 __Set/Read fine tune status__
 
-Set the fine tune status:
+Set fine tune status:
 
-	FT x
+	FT p1
 
-Get the fine tune status:
+Get fine tune status:
 
 	FT
 
-Returns: x
-	
-|x|fine tune
-|---|---|
-|0|off
-|1|on
+Returns: p1
+
+| p1  | Fine tune status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 

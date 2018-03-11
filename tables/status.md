@@ -1,5 +1,5 @@
-||Status|
-|---|---|	
-|*Code*|*Function*|
-|0|off
-|1|on
+|| Status |
+| --- | --- |
+| *Code* | *Function* |
+| 0 | Off |
+| 1 | On  |

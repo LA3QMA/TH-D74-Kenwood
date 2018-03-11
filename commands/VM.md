@@ -1,23 +1,23 @@
-__Set/Read memory VFO mode__
+__Set/Read memory/VFO mode__
 
 Set memory/VFO mode:
 
-	VM n,x
+	VM p1,p2
 
-Read the memory/VFO mode:
+Get memory/VFO mode:
 
-	VM
-	
-Returns: x
+	VM p1
 
-|x|function
-|---|---|
-|0|VFO mode
-|1|Memory mode
-|2|Call mode
-|3|DV mode
+Returns: p1,p2
 
-|n|function
-|---|---|
-|0|Band A
-|1|Band B
+| p1  | Band |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
+
+| p2  | Function |
+| --- | --- |
+| 0 | VFO mode    |
+| 1 | Memory mode |
+| 2 | Call mode   |
+| 3 | DV mode     |

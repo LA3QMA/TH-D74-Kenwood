@@ -1,8 +1,8 @@
-__Radio Firmware__
+__Read Radio Firmware__
 
 Get radio firmware:
 
 	FV
 
-Returns: radio firmware
-i.e: FV 1.06
+Returns: Radio firmware
+i.e.: FV 1.08

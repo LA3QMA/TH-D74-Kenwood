@@ -2,15 +2,17 @@ __Set/Read radio/GPS mode__
 
 Set radio/GPS mode:
 
-	GM x
+	GM p1
 
 Get radio/GPS mode:
 
 	GM
 
-Returns: x
-	
-|x|function|
-|---|---|
-|0|Radio and internal GPS
-|1|Radio off and internal GPS on
+Returns: p1
+
+| p1  | Function |
+| --- | --- |
+| 0 | Operating Mode: *Normal* (Radio and internal GPS)            |
+| 1 | Operating Mode: *GPS Receiver* (Radio off, GPS-only-mode on) |
+
+Setting the mode automatically restarts device in new mode.

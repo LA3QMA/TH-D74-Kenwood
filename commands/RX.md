@@ -1,7 +1,5 @@
-__Set radio in RX mode__
+__Set radio to RX mode__
 
-Set the radio in RX:
+Set radio to RX:
 
 	RX
-
-	

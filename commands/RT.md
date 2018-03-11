@@ -1,21 +1,20 @@
-__Set/Read the time__
+__Set/Read realtime clock__
 
-Set the time:
+Set time:
 
-	RT p1, p2, p3, p4, p5, p6
+	RT p1p2p3p4p5p6
 
-Read the time:
+Get time:
 
 	RT
-	
-Returns: x
 
-|p|function
-|---|---|
-|1|YYYY year
-|2|MM month
-|3|DD date
-|4|HH hour
-|5|MM minuttes
-|6|SS seconds
+Returns: p1p2p3p4p5p6
 
+| p   | Function |
+| --- | --- |
+| 1 | YY year, 00-99 for 2000-2099                  |
+| 2 | MM month, 01-12 for Jan-Dec                   |
+| 3 | DD day, 01-31                                 |
+| 4 | HH hour, 00-23                                |
+| 5 | MM minute, 00-59                              |
+| 6 | SS second, 00-59 (leap seconds not supported) |

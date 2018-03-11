@@ -1,41 +1,41 @@
 __Set/Read GPS sentence__
 
-Set the GPS sentence:
+Set GPS sentences output status:
 
 	GS p1,p2,p3,p4,p5,p6
 
-Get GPS sentence:
+Get GPS sentences output status:
 
 	GS
 
 Returns: p1,p2,p3,p4,p5,p6
-	
-|p1|sentence
-|---|---|
-|0|$GPGGA off
-|1|$GPGGA on
 
-|p2|sentence
-|---|---|
-|0|$GPGLL off
-|1|$GPGLL on
+| p1  | $GPGGA sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 
-|p3|sentence
-|---|---|
-|0|$GPGSA off
-|1|$GPGSA on
+| p2  | $GPGLL sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 
-|p4|sentence
-|---|---|
-|0|$GPGSV off
-|1|$GPGSV on
+| p3  | $GPGSA sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 
-|p5|sentence
-|---|---|
-|0|$GPRMC off
-|1|$GPRMC on
+| p4  | $GPGSV sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 
-|p6|sentence
-|---|---|
-|0|$GPVTG off
-|1|$GPVTG on
+| p5  | $GPRMC sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
+
+| p6  | $GPVTG sentence status |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |

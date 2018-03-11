@@ -1,21 +1,18 @@
 __Set/Read APRS beacon control__
 
-Set the beacon control:
+Set beacon control:
 
 	PT p1
 
-Get the beacon control:
+Get beacon control:
 
 	PT
 
 Returns: p1
-	
-|x|Beacon control
-|---|---|
-|0|manual
-|1|PTT
-|2|Auto
-|3|SmartBeacon
 
-
-
+| p1  | Beacon TX control |
+| --- | --- |
+| 0 | Manual         |
+| 1 | PTT            |
+| 2 | Auto           |
+| 3 | SmartBeaconing |

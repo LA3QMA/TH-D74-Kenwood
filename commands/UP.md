@@ -1,7 +1,7 @@
-__Emulate The Up Key__
+__Emulate the up key__
 
 One step up:
 
 	UP
 
-frequency/memory one step up	
+Action: Frequency/memory one step up or wrap around on upper boundary

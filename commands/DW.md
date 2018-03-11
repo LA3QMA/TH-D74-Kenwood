@@ -1,8 +1,7 @@
-__Emulate The Down Key__
+__Emulate the down key__
 
 One step down:
 
 	DW
 
-frequency/memory one step down
-	
+Action: Frequency/memory one step down or wrap around on lower boundary

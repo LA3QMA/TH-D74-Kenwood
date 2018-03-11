@@ -1,19 +1,19 @@
-__Set/Read the memory channel__
+__Set/Read memory channel__
 
-Set the memory channel:
+Set memory channel:
 
-	MR n,nnn
+	MR p1,p2
 
-Read the memory channel:
+Get memory channel:
 
-	MR n
-	
-Returns: nnn
+	MR p1
 
-memory channel number (3 digit)
+Returns: p2
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
+| p1  | Band |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
 
+| p2  | Memory channel, 3 digits, 000-999 |
+| --- | --- |

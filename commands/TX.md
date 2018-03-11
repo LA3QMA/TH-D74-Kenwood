@@ -1,10 +1,9 @@
-__Set radio in TX mode__
+__Set radio to TX mode__
 
-Set the radio in TX:
+Set radio to TX:
 
 	TX
 
-Set the radio in RX:
+Set radio to RX:
 
 	RX
-	

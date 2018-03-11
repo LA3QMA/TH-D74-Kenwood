@@ -4,7 +4,8 @@ Set:
 
 	0G KENWOOD
 
-__Enters the service mode__ *This command has to be uppercase*
+__Enters the service mode__
+*This command has to be uppercase*
 
 # WARNING WARNING
 
