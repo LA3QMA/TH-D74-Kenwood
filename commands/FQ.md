@@ -1,19 +1,19 @@
 __Set/Read frequency__
 
-Set the frequency:
+Set frequency:
 
-	FQ p1,x
+	FQ p1,p2
 
-Get the frequency:
+Get frequency:
 
 	FQ p1
 
-Returns: p1,x
-	
-|p1|band
-|---|---|
-|0|Band A
-|1|Band B
+Returns: FQ p1,p2
 
-|x|frequency in Hz 10 digit|
-|---|---|
+| p1  | [Band](/tables/band.md) |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
+
+| p2  | Frequency in Hz, 10 digits |
+| --- | --- |

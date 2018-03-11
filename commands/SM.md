@@ -1,21 +1,21 @@
-__Set/Read s-meter squelch__
+__Set/Read S-meter squelch__
 
-Set the s-meter squelch:
+Set S-meter squelch:
 
 	SM p1,p2
 
-Get the s-meter squelch:
+Get S-meter squelch:
 
 	SM p1
 
-Returns: p1,p2
-	
-|x|band
-|---|---|
-|0|Band A
-|1|Band B
+Returns: SM p1,p2
 
-|p2|s-meter squelch
-|---|---|
-|0|open
-|1|closed
+| p1  | [Band](/tables/band.md) |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
+
+| p2  | S-meter squelch |
+| --- | --- |
+| 0 | Open   |
+| 1 | Closed |

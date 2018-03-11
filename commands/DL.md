@@ -1,20 +1,18 @@
-__Dual Band Mode/Single Band Mode__
+__Set/Read single/dual band mode__
 
-Set dual band:
+Set single/dual band mode:
 
-	DL 0
+	DL p1
 
-Set single band:
-
-	DL 1
-	
-Read:
+Get single/dual band mode:
 
 	DL
-	
-Returns: x
 
-|code|function|
-|---|---|
-|0|Dual band
-|1|Single band
+Returns: DL p1
+
+| p1  | Function |
+| --- | --- |
+| 0 | Dual band   |
+| 1 | Single band |
+
+Key: (F) DUAL

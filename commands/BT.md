@@ -2,15 +2,19 @@ __Set/Read Bluetooth__
 
 Set Bluetooth:
 
-	BT x
+	BT p1
 
-Read Bluetooth:
+Get Bluetooth:
 
 	BT
-	
-Returns: x
 
-|x|function
-|---|---|
-|0|off
-|1|on
+Returns: BT p1
+
+| p1  | Bluetooth [status](/tables/status.md) |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
+
+BT 0 is not returned via Bluetooth before the connection is terminated.
+
+Menu item: 930

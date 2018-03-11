@@ -2,15 +2,17 @@ __Set/Read PTT and CTRL band__
 
 Set PTT/CTRL band:
 
-	BC x
+	BC p1
 
-Read the PTT/CTRL band:
+Get PTT/CTRL band:
 
 	BC
-	
-Returns: x
 
-|x|function
-|---|---|
-|0|Band A
-|1|Band B
+Returns: BC p1
+
+| p1  | [Band](/tables/band.md) |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
+
+Key: A/B

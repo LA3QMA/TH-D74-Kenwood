@@ -1,14 +1,18 @@
 __Set/Read RIG control feedback__
 
-Set:
+Set feedback status:
 
-	AI x
+	AI p1
 
+Get feedback status:
 
-|x|function|
-|---|---|
-|0|off
-|1|on
+	AI
 
+Returns: AI p1
 
-Returns realtime changes on the radio like frequencies etc
+| p1  | Feedback [status](/tables/status.md) |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
+
+Activates realtime output of changes on the radio like frequencies etc.

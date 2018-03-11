@@ -1,24 +1,20 @@
-__Set/Read fine tune__
+__Set/Read fine step size__
 
-Set the fine tune:
+Set fine tune step size:
 
-	FS p1,p2
+	FS p1
 
-Get the fine tune:
+Get the fine tune step size:
 
 	FS
 
-Returns: p1,p2
-	
-|p1|fine tune
-|---|---|
-|0|off
-|1|on
+Returns: FS p1
 
-|p2|fine tune
-|---|---|
-|0|20Hz
-|1|100Hz
-|2|500Hz
-|3|1000Hz
+| p1  | [Step size](/tables/finestep.md) |
+| --- | --- |
+| 0 | 20 Hz   |
+| 1 | 100 Hz  |
+| 2 | 500 Hz  |
+| 3 | 1000 Hz |
 
+Key: (F) STEP (in fine mode)

@@ -1,8 +1,12 @@
-__Radio Firmware__
+__Read Radio Firmware__
 
 Get radio firmware:
 
 	FV
 
-Returns: radio firmware
-i.e: FV 1.06
+Returns: FV p1
+
+| p1  | Radio firmware, i.e.: FV 1.08 |
+| --- | --- |
+
+Menu item: 991

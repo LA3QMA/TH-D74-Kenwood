@@ -1,37 +1,35 @@
-__Set/Read the VFO channel__
+__Set/Read VFO channel__
 
-Set the VFO channel:
+Set VFO channel:
 
-	FO p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16, p17, p18, p19, p20, p21
+	FO p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21
 
-Read the VFO channel:
+Get VFO channel:
 
-	FO x
-	
-Returns: memory channel number (3 digit)
+	FO p1
 
-|p|function|
-|---|---|
-|1|[Band](/tables/band.md)
-|2|Frequency in Hz 10 digit. must be within selected band
-|3|Offset frequency in Hz 10 digit or transmit freq for odd split
-|4|[Step size](/tables/step_size.md)
-|5|[Transmit step size](/tables/step_size.md)
-|6|[Mode](/tables/mode.md)
-|7|[Fine mode](/tables/finemode.md)
-|8|[Fine step size](/tables/finestep.md)
-|9|[Tone status](/tables/status.md)
-|10|[CTCSS status](/tables/status.md)
-|11|[DCS status](/tables/status.md)
-|12|[CTCSS/DCS status](/tables/status.md)
-|13|[Reverse](/tables/status.md)
-|14|[Shift direction](/tables/shift.md)
-|15|[Tone frequency](/tables/tone_ctcss.md)
-|16|[CTCSS frequency](/tables/tone_ctcss.md)
-|17|[DCS frequency](/tables/DCS.md)
-|18|[Cross encode/decode](/tables/cross.md)
-|19|URCALL
-|20|[D-Star squelch type](/tables/DSTAR_squelchtype.md)
-|21|[D-Star squelch code](/tables/DSTAR_squelchcode.md)
+Returns: FO p1,...,p21
 
-
+| p   | Function |
+| --- | --- |
+|  1 | [Band](/tables/band.md)
+|  2 | Frequency in Hz, 10 digits, must be within selected band
+|  3 | Offset frequency in Hz, 10 digits, or transmit freq for odd split
+|  4 | [Step size](/tables/step_size.md)
+|  5 | [Transmit step size](/tables/step_size.md)
+|  6 | [Mode](/tables/mode.md)
+|  7 | [Fine mode](/tables/finemode.md)
+|  8 | [Fine step size](/tables/finestep.md)
+|  9 | [Tone status](/tables/status.md)
+| 10 | [CTCSS status](/tables/status.md)
+| 11 | [DCS status](/tables/status.md)
+| 12 | [CTCSS/DCS status](/tables/status.md)
+| 13 | [Reverse](/tables/status.md)
+| 14 | [Shift direction](/tables/shift.md)
+| 15 | [Tone frequency](/tables/tone_ctcss.md)
+| 16 | [CTCSS frequency](/tables/tone_ctcss.md)
+| 17 | [DCS frequency](/tables/DCS.md)
+| 18 | [Cross encode/decode](/tables/cross.md)
+| 19 | URCALL
+| 20 | [D-Star squelch type](/tables/DSTAR_squelchtype.md)
+| 21 | [D-Star squelch code](/tables/DSTAR_squelchcode.md)

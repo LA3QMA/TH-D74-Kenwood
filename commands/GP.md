@@ -2,21 +2,22 @@ __Set/Read internal GPS mode__
 
 Set GPS mode:
 
-	GP p1, p2
+	GP p1,p2
 
 Get GPS mode:
 
 	GP
 
-Returns: p1, p2
-	
-|p1|function|
-|---|---|
-|0|off
-|1|on
+Returns: GP p1,p2
 
-|p2|function|
-|---|---|
-|0|iGPS
-|1|iGPS and data out
+| p1  | GPS [status](/tables/status.md) |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
 
+| p2  | Data output ("PC Output") [status](/tables/status.md) |
+| --- | --- |
+| 0 | Off |
+| 1 | On  |
+
+Menu items: 400, 405

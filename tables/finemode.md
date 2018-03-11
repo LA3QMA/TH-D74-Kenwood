@@ -1,5 +1,5 @@
-||Fine mode|
-|---|---|	
-|*Code*|*Function*|
-|0|off
-|1|on
+|| Fine mode |
+| --- | --- |
+| *Code* | *Function* |
+| 0 | Off |
+| 1 | On  |

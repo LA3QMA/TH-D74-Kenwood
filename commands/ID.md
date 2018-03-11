@@ -1,10 +1,10 @@
-__Radio Model__
+__Read radio model__
 
 Get radio model:
 
 	ID
 
-Returns: radio ID
+Returns: ID p1
 
-
-i.e TH-D74
+| p1  | Radio ID, i.e. TH-D74 |
+| --- | --- |

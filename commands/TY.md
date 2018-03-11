@@ -1,16 +1,20 @@
-__Radio Type__
+__Read radio type__
 
 Get radio type:
 
 	TY
 
-Returns: radio type
+Returns: TY p1,p2
 
-|Model|result|detail|
-|---|---|---|
-|TH-D74A|K,2|Not modified|
-|TH-D74A|K,4|Hardware extended TX modified|
-|TH-D74E|E,5|Not modified|
-|TH-D74E|E,6|Hardware extended TX modified|
-|TH-D74K|**Need feedback**|Not modified|
-|TH-D74K|**Need feedback**|Hardware extended TX modified|
+| Model | p1,p2 | Detail |
+| --- | --- | --- |
+| TH-D74A | K,2 | Not modified                  |
+| TH-D74A | K,4 | Hardware extended TX modified |
+| TH-D74E | E,5 | Not modified                  |
+| TH-D74E | E,6 | Hardware extended TX modified |
+| TH-D74  | J, **Need feedback** | Not modified                  |
+| TH-D74  | J, **Need feedback** | Hardware extended TX modified |
+| TH-D74A | M, **Need feedback** | Not modified                  |
+| TH-D74A | M, **Need feedback** | Hardware extended TX modified |
+| TH-D74K | **Need feedback** | Not modified                  |
+| TH-D74K | **Need feedback** | Hardware extended TX modified |

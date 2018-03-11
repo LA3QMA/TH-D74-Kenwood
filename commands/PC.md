@@ -1,25 +1,25 @@
-__Set/Read the output power__
+__Set/Read output power__
 
-Set the output power:
+Set output power:
 
-	PC n,x
+	PC p1,p2
 
-Read the output power:
+Get output power:
 
-	PC n
-	
-n: 0: band A, 1: band B
+	PC p1
 
-Returns: x
+Returns: PC p1,p2
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
+| p1  | [Band](/tables/band.md) |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
 
-|x|Power|
-|---|---|
-|0|high
-|1|low
-|2|EL
+| p2 | Output power level |
+| --- | --- |
+| 0 | High   |
+| 1 | Medium |
+| 2 | Low    |
+| 3 | EL     |
 
+Key: (F) LOW

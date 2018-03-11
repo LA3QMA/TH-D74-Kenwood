@@ -1,27 +1,27 @@
-__Set/Read the squelch__
+__Set/Read squelch level__
 
-Set the squelch:
+Set squelch:
 
-	SQ n,x
+	SQ p1,p2
 
-Read the squelch:
+Get squelch:
 
-	SQ n
-	
-n: 0: band A, 1: band B
+	SQ p1
 
-Returns: x
+Returns: SQ p1,p2
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
+| p1  | [Band](/tables/band.md) |
+| --- | --- |
+| 0 | Band A |
+| 1 | Band B |
 
-|x|Squelch|
-|---|---|
-|0|0
-|1|1
-|2|2
-|3|3
-|4|4
-|5|5
+| p2  | Squelch level|
+| --- | --- |
+| 0 | 0 / Open |
+| 1 | 1        |
+| 2 | 2        |
+| 3 | 3        |
+| 4 | 4        |
+| 5 | 5        |
+
+Key: (F) SQL

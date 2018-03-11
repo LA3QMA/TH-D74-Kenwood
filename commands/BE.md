@@ -1,27 +1,20 @@
-__Set/Read APRS beacon type__
+__Send APRS beacon__
 
-Set the APRS beacon type:
-
-	BE n
-
-Get the APRS beacon type:
+Transmit APRS beacon:
 
 	BE
 
-BE sends a beacon when the mode is *manual*
+| [Mode](PT.md) | Action |
+| --- | --- |
+| Manual         | BE sends a beacon                   |
+| PTT            | BE sends a beacon after PTT is used |
+| Auto           | BE toggles beacon on/off            |
+| SmartBeaconing | BE toggles beacon on/off            |
 
-BE sends a beacon after the PTT is used if the mode is *PTT*
+Returns: BE if accepted or N if TNC is off
 
-BE toggles a beacon on/off if the mode is *auto*
+If no callsign ("NOCALL") is set, no beacon will be sent.
 
-BE toggles a beacon on/off if the mode is *SmartBeacon*
+The mode is set using the [PT](PT.md) command.
 
-Returns N if TNC is OFF
-	
-|n|APRS beacon type
-|---|---|
-||toggles on/off
-|1|manual
-|2|PTT
-|3|Auto
-|4|SmartBeacon
+Key: BCN

@@ -1,20 +1,18 @@
 __Set/Read TNC Packet Baud__
 
-Set the TNC Baud rate:
+Set TNC Baud rate:
 
-	AS n
+	AS p1
 
-Get the TNC Baud rate:
+Get TNC Baud rate:
 
 	AS
 
-Returns: n
-	
-|n|TNC Baud rate|
-|---|---|
-|0|1200bd
-|1|9600bd
+Returns: AS p1
 
+| p1  | TNC Baud rate |
+| --- | --- |
+| 0 | 1200 Bd |
+| 1 | 9600 Bd |
 
-
-
+Menu item: 505

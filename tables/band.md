@@ -1,4 +1,4 @@
-||BAND|
+|| Band |
 | --- | --- |
 | *Code* | *Function* |
 | 0 | Band A |

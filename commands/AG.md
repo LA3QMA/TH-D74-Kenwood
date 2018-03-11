@@ -2,12 +2,18 @@ __Set/Read AF gain__
 
 Set AF gain:
 
-	AG x
+	AG p1
 
 Get AF gain:
 
 	AG
 
-Returns: x
-	
-values between 000 and 200
+Returns: AG p1
+
+| p1  | Function |
+| --- | --- |
+| 000 | Quiet |
+| ... | ...   |
+| 200 | Loud  |
+
+Knob: VOL
