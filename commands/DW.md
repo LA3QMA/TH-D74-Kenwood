@@ -7,3 +7,6 @@ One step down:
 Returns: DW
 
 Action: Frequency/memory one step down or wrap around on lower boundary
+
+Key: DOWN
+Knob: ENC

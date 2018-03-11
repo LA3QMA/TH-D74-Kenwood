@@ -11,6 +11,8 @@ Returns: TX p1
 | 0 | Band A |
 | 1 | Band B |
 
+Key: PTT
+
 Set radio to RX:
 
 	RX

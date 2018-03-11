@@ -17,3 +17,4 @@ Returns: FS p1
 | 2 | 500 Hz  |
 | 3 | 1000 Hz |
 
+Key: (F) STEP (in fine mode)

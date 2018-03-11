@@ -56,3 +56,6 @@ Version Euro E,6:
 | 9 | 30 kHz   |
 | A | 50 kHz   |
 | B | 100 kHz  |
+
+
+Key: (F) STEP

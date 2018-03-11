@@ -14,3 +14,5 @@ Returns: BC p1
 | --- | --- |
 | 0 | Band A |
 | 1 | Band B |
+
+Key: A/B

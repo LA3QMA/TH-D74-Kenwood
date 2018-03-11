@@ -5,3 +5,5 @@ Set radio to RX:
 	RX
 
 Returns: RX
+
+Key: PTT

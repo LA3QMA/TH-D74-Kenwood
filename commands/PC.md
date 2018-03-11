@@ -21,3 +21,5 @@ Returns: PC p1,p2
 | 1 | Medium |
 | 2 | Low    |
 | 3 | EL     |
+
+Key: (F) LOW

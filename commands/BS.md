@@ -14,3 +14,5 @@ Returns: BS p1
 | --- | --- |
 | 0 | ANT connector        |
 | 1 | Internal bar antenna |
+
+Menu item: 104

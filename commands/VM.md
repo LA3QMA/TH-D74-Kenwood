@@ -21,3 +21,5 @@ Returns: VM p1,p2
 | 1 | Memory mode |
 | 2 | Call mode   |
 | 3 | DV mode     |
+
+Keys: VFO, MR, CALL, MODE

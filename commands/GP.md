@@ -19,3 +19,5 @@ Returns: GP p1,p2
 | --- | --- |
 | 0 | Off |
 | 1 | On  |
+
+Menu items: 400, 405

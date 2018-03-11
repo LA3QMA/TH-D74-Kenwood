@@ -16,3 +16,5 @@ Returns: LC p1
 | 1 | On           |
 | 2 | Auto         |
 | 3 | Auto (DC-IN) |
+
+Menu item: 900

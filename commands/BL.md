@@ -13,3 +13,5 @@ Returns: BL p1
 | 2 | One green bar       |
 | 3 | Full                |
 | 4 | Charging            |
+
+Menu item: 922

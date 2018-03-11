@@ -15,3 +15,4 @@ Returns: FT p1
 | 0 | Off |
 | 1 | On  |
 
+Key: (F) FINE

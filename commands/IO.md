@@ -15,3 +15,5 @@ Returns: IO p1
 | 0 | Off    |
 | 1 | IF     |
 | 2 | Detect |
+
+Menu item: 102

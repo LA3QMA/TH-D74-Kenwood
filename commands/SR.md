@@ -9,3 +9,5 @@ Reset the radio:
 | 0 | VFO reset     |
 | 1 | Partial reset |
 | 2 | Full reset    |
+
+Menu item: 999

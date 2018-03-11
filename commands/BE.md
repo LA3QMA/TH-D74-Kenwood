@@ -16,3 +16,5 @@ Returns: BE if accepted or N if TNC is off
 If no callsign ("NOCALL") is set, no beacon will be sent.
 
 The mode is set using the [PT](PT.md) command.
+
+Key: BCN

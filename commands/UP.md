@@ -7,3 +7,6 @@ One step up:
 Returns: UP
 
 Action: Frequency/memory one step up or wrap around on upper boundary
+
+Key: UP
+Knob: ENC

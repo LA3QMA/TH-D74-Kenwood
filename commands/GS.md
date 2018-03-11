@@ -39,3 +39,5 @@ Returns: GS p1,p2,p3,p4,p5,p6
 | --- | --- |
 | 0 | Off |
 | 1 | On  |
+
+Menu item: 406

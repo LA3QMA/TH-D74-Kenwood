@@ -23,3 +23,5 @@ Returns: SH p1,p2
 | 2 | 2.6 kHz | 1.0 kHz | 6.0 kHz |
 | 3 | 2.8 kHz | 1.5 kHz | 7.5 kHz |
 | 4 | 3.0 kHz | 2.0 kHz | N       |
+
+Menu items: 120, 121, 122

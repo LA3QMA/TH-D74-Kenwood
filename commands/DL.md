@@ -14,3 +14,5 @@ Returns: DL p1
 | --- | --- |
 | 0 | Dual band   |
 | 1 | Single band |
+
+Key: (F) DUAL

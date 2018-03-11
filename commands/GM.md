@@ -16,3 +16,5 @@ Returns: GM p1
 | 1 | Operating Mode: *GPS Receiver* (Radio off, GPS-only-mode on) |
 
 Setting the mode automatically restarts device in new mode.
+
+Menu item: 403

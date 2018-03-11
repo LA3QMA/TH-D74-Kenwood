@@ -16,3 +16,5 @@ Returns: BT p1
 | 1 | On  |
 
 BT 0 is not returned via Bluetooth before the connection is terminated.
+
+Menu item: 930

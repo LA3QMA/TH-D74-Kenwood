@@ -15,6 +15,4 @@ Returns: AS p1
 | 0 | 1200 Bd |
 | 1 | 9600 Bd |
 
-
-
-
+Menu item: 505

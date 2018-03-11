@@ -21,6 +21,7 @@ Returns: TN p1,p2
 | 0 | Band A |
 | 1 | Band B |
 
+Key: (F) APRS
 
 __Not possible to get out of KISS mode__
 *Maybe sending the KISS exit command: C0 FF C0 (have to try this)*

@@ -16,3 +16,5 @@ Returns: PT p1
 | 1 | PTT            |
 | 2 | Auto           |
 | 3 | SmartBeaconing |
+
+Menu item: 510

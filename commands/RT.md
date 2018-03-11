@@ -18,3 +18,5 @@ Returns: RT p1p2p3p4p5p6
 | 4 | HH hour, 00-23                                |
 | 5 | MM minute, 00-59                              |
 | 6 | SS second, 00-59 (leap seconds not supported) |
+
+Menu item: 950

@@ -27,3 +27,6 @@ Returns: MD p1,p2
 | 7 | DR   |
 | 8 | WFM  |
 | 9 | R-CW |
+
+Key: MODE
+Menu items: 103, 171, Digital 5
