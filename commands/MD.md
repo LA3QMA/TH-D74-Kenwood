@@ -6,7 +6,7 @@ Set mode:
 
 Get mode:
 
-	MD
+	MD p1
 
 Returns: MD p1,p2
 
