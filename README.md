@@ -8,7 +8,7 @@ Thanks to: M1HOG Nicolas, AG6IE Eric Wolak - for helping updating and verifying 
 
 Thanks to: Jochen, DG6OBE for cleaning up and unified the document.
 
-https://groups.yahoo.com/neo/groups/Kenwood_TH-D74 (GitHub is usually the most updated version)
+https://kenwood-radios.groups.io/g/main and  https://kenwood-radios.groups.io/g/TH-D74 (GitHub is usually the most updated version)
 
 Available Control commands: (Firmware V1.09)
 
