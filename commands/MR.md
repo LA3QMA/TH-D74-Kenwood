@@ -8,7 +8,7 @@ Get memory channel:
 
 	MR p1
 
-Returns: MR p2
+Returns: `MR p2` or `N` if the band is not in memory channel mode (i.e. VFO)
 
 | p1  | [Band](/tables/band.md) |
 | --- | --- |
