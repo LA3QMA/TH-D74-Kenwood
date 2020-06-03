@@ -4,7 +4,7 @@ Reverse engineered commands based on my first discovery for the TM-D710.
 
 Thanks to: WM8S Rob - for helping finding new commands and parameters for the TH-D74
 
-Thanks to: M1HOG Nicolas, AG6IE Eric Wolak - for helping updating and verifying commands/tables/etc
+Thanks to: M1HOG Nicolas, AG6IE Eric Wolak, KK4VCZ Travis  - for helping updating and verifying commands/tables/etc
 
 Thanks to: Jochen, DG6OBE for cleaning up and unified the document.
 
