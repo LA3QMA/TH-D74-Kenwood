@@ -10,7 +10,7 @@ Thanks to: Jochen, DG6OBE for cleaning up and unified the document.
 
 https://kenwood-radios.groups.io/g/main and  https://kenwood-radios.groups.io/g/TH-D74 (GitHub is usually the most updated version)
 
-Available Control commands: (Firmware V1.09)
+Available Control commands: (Firmware V1.10)
 
 
 - AE	[Radio serialnumber and model](/commands/AE.md)
