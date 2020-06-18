@@ -25,7 +25,7 @@ Returns: ME p1,...,p23
 | 11 | [DCS status](/tables/status.md)
 | 12 | [CTCSS/DCS status](/tables/status.md)
 | 13 | [Reverse](/tables/status.md)
-| 14 | [unknown probably 220MHz band? Tnx to: Travis KK4VCZ]
+| 14 | [Odd-split memory Tnx to: Travis KK4VCZ]
 | 15 | [Shift direction](/tables/shift.md)
 | 16 | [Tone frequency](/tables/tone_ctcss.md)
 | 17 | [CTCSS frequency](/tables/tone_ctcss.md)
